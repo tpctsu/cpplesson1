@@ -26,9 +26,28 @@ int main()
 
 	// multiple declarations and definitions
 	int _c, _d45, e;
-
+	
+	//afta ta evala ego
+	int one, two;
+	one=1;
+	two=2;
+	
+	float f, d;
+	f=1.1;
+	d=2.2;
+	
+	char ch1, ch2;
+	ch1='a';
+	ch2='b';
+	
+	cout << one+two << endl;
+	cout << f+d << endl;
+	cout << ch1+ch2 << endl;
+	
 	// Let us print a variable
 	cout << a123 << endl;
+	
+
 
 	return 0;
 }
